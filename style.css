@@ -9,6 +9,8 @@ body{
     background-color: aliceblue; 
    border-radius: 15px;
    margin-top: 50px;
+   display: flex;
+    justify-content: center;
 }
 table{
     border-collapse: collapse;
